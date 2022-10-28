@@ -3,4 +3,4 @@
 
 
 # TODO
-Code and model after extension to journal
+Code and model will be released after paper is accepted
