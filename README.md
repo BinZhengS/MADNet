@@ -1,5 +1,5 @@
 # MAD-Net: Multi-attention dense network for functional bone marrow segmentation
-
+![image](img/4.tiff)
 
 
 # TODO
