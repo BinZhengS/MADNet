@@ -1,5 +1,5 @@
 # MAD-Net: Multi-attention dense network for functional bone marrow segmentation
-![image](https://github.com/BinZhengS/MADNet/blob/main/img/arch.tiff)
+![image](https://github.com/BinZhengS/MADNet/blob/main/img/arch.png)
 
 
 # TODO
